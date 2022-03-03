@@ -1,6 +1,6 @@
 # BD-SQL-Server2-
 Proyecto de Diseño de una Base de Datos Relacional, Sistema Académico de Tecnicaturas
-Implementación de STORED PROCEDURES, TRIGGERS, FUNCIONES y Manejo de Errores.
+Implementación de Consultas agrupadas, STORED PROCEDURES, TRIGGERS, FUNCIONES y Manejo de Errores.
 
 Sistema Académico de las Tecnicaturas de la UTN FRC
 
